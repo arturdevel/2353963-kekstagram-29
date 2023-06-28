@@ -1,4 +1,4 @@
-nst PHOTO_DESCRIPTIONS = [
+const PHOTO_DESCRIPTIONS = [
   'Пейзаж',
   'Дорогая машина',
   'Страх',
